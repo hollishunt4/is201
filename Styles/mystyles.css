@@ -1,0 +1,144 @@
+#title-background{
+    position:absolute;
+    left:0;
+    right:0;
+    bottom:0;
+    height:150px;
+    padding:20px;
+    opacity: 0.8;
+    z-index:6;
+    background: grey;
+}
+.custom-button{
+    color:grey;
+}
+
+.about-me-img{
+    border: 7px solid #f1f1f1;
+}
+
+custom-h1{
+        font-family: walkway, cursive;
+        text-align: center;
+        font-size: 45px;
+        padding: 12px;
+        border-style: ridge;
+        border-color: #0099ff;
+        border-width: thick;
+        
+        
+    }
+.h2{
+     
+    font-family:cursive;
+    font-style:oblique;
+    color:deepskyblue;
+    align-items: stretch;
+    letter-spacing: 5px;
+    text-shadow: 3px 2px blue;
+    text-align: justify;
+   
+}
+
+.footer-info{
+    font-family:serif;
+    font-style:oblique;
+    color:blanchedalmond;
+    align-items: stretch;
+    text-align: justify; 
+}
+
+.info{
+    font-family:cursive;
+    font-style:oblique;
+    color:deepskyblue;
+    align-items: stretch;
+    
+}
+a{
+        color: indianred;
+}
+
+
+a:hover{
+    text-decoration:inherit;
+    font-size: 120%;
+}
+a:active{
+    color:turquoise;
+}
+    
+}
+
+li:hover{
+    text-decoration: underline;
+    background-color: aliceblue;
+    font-size: 110%;
+    
+}
+
+.img{
+    border-style: outset;
+    border-color: rebeccapurple;
+    border-width: 9px;
+    margin: 17px;
+    
+}
+.gib{
+    font-size: 150%;
+    font-family: wide latin; 
+}
+
+.menu{
+    font-family:cursive;
+    font-style: normal;
+    color:deepskyblue;
+    
+}
+.clearshow{
+    text-align: center;
+    font-family: fantasy;
+    font-style: italic;
+    color: darkblue;
+}
+.alignright{
+    text-align: right;
+}
+
+.underline{
+    text-align: right;
+    text-decoration: underline;
+    text-align: center;
+    font-family: fantasy;
+    font-style: italic;
+    color: darkblue;
+    font-size: 22px;
+}
+.list{
+    text-align: left;
+    font-family: fantasy;
+ 
+    color: black;
+    font-size: 22px;
+}
+.smalllist{
+    text-align: left;
+    font-family: sans-serif;
+    color: black;
+    font-size: 18px;
+}
+
+#header{
+    background-color: beige;
+    border-style: groove;
+    border-width: 4px;
+    border-color: chocolate;
+    
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    height: 150px;
+    align-content: center;
+    
+}

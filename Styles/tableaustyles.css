@@ -1,0 +1,79 @@
+
+body {
+    background-color: black;
+       margin:0;
+   padding:0;
+   height:100%;
+}
+
+table{
+    margin: 0 auto; 
+}
+.myCaption{
+    color:white;
+    font-family: sans-serif;
+}
+
+.myGraph{
+    width: 600px;
+    border: 7px solid #f1f1f1;
+    margin: 15px;
+
+}
+#myHeader{
+
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 150px;
+}
+
+#leftNav{
+
+    position: absolute;
+    left:10px;
+    top: 10px;
+    height:20px;
+    width:30px;
+    color: white;
+    font-size: 30px;
+}
+
+#rightNav{
+
+    position: absolute;
+    right:35px;
+    top: 10px;
+    height:20px;
+    width:250px;
+    display: inline;
+    color: white;
+    font-size: 30px;
+
+}
+
+#myContent{
+   position:relative;
+    top: 80px;
+    left: 5px;
+    right: 5px;
+    outline: green 4px;
+    text-align: center;
+    
+}  
+
+#myFooter{ 
+    background-color: aquamarine;
+    border-style: double;
+    border-width: 10px;
+    border-color: chocolate;
+    
+    position: absolute;
+    left: 5px;
+    bottom: -800px;
+    right: 5px;
+    height: 50px;
+    outline: green 4px;
+    
+}
